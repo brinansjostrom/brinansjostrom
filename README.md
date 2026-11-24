@@ -5,7 +5,7 @@ I'm a sophomore studying Electrical and Computer Engineering at Oregon State Uni
 ## Current project
 
 **[TIBasicM0 Compiler](https://github.com/brinansjostrom/TIBasicM0)**
-A compiler that is currently a work in progress. It aims to compile an TI-84 Basic -inspired language, with the goal to generate ARM Cortex-M0 assembly.
+A compiler that is currently a work in progress. It aims to compile an TI-84 Basic-inspired language, with the goal to generate ARM Cortex-M0 assembly.
 
 ## What I'm learning
 
